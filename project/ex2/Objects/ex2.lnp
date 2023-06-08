@@ -1,0 +1,5 @@
+--cpu ARM7TDMI
+".\objects\main.o"
+"..\..\KeilCode-5\EX2_c_code_compare_ab\serial.o"
+"..\..\KeilCode-5\EX2_c_code_compare_ab\startup.o"
+--ro-base 0x00000000 --entry 0x00000000 --rw-base 0x40000000 --strict --summary_stderr --info summarysizes -o .\Objects\ex2.axf

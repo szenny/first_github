@@ -1,0 +1,5 @@
+--cpu ARM7TDMI
+".\objects\sample2.o"
+"..\KeilCode_sample\EX1_main_call_asm_Helloworld\startup.o"
+"..\KeilCode_sample\EX1_main_call_asm_Helloworld\serial.o"
+--library_type=microlib --ro-base 0x00000000 --entry 0x00000000 --rw-base 0x60000000 --strict --summary_stderr --info summarysizes -o .\Objects\sample2.axf

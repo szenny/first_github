@@ -1,0 +1,8 @@
+Dependencies for Project 'sample2', Target 'Target 1': (DO NOT MODIFY !)
+F (.\sample2.c)(0x64818CE7)(--c99 --gnu -c --cpu ARM7TDMI -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --split_sections-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="526"-o .\objects\sample2.o --omf_browse .\objects\sample2.crf --depend .\objects\sample2.d)
+I (base.h)(0x6426D8AC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599ECD2E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x599ECD2C)
+F (..\KeilCode_sample\EX1_main_call_asm_Helloworld\startup.o)(0x560BB93B)()
+F (..\KeilCode_sample\EX1_main_call_asm_Helloworld\serial.o)(0x560BB93D)()
+F (..\KeilCode_sample\EX2_c_code_compare_ab\base.h)(0x6426D8AC)()

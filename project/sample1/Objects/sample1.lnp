@@ -1,0 +1,4 @@
+--cpu ARM7TDMI
+".\objects\sample1.o"
+--strict --scatter ".\Objects\sample1.sct"
+--summary_stderr --info summarysizes -o .\Objects\sample1.axf
